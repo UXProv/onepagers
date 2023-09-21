@@ -11,6 +11,9 @@ Checout to selected branch
 ## git add filepath/filename
 To add a file to a commit
 
+## git status
+
+
 ## git add -p filepath/filename
 p stands for pach. Allows you to pick single changes to add to the commit
 
@@ -39,6 +42,7 @@ Then "git merge topic" will replay the changes made on the topic branch since it
 	  /         \
     D---E---F---G---H master
 
+## git merge --abort
 
 ## git branch branch-name
 Used to create new branches
