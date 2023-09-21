@@ -29,14 +29,14 @@ Git push will push the commits from branch name to repo name, creating a pull re
 Incorporates changes from the named commits
 Assume the following history exists and the current branch is "master":
 
-	   A---B---C topic
-	 /
+	    A---B---C topic
+	  /
     D---E---F---G master
     
 Then "git merge topic" will replay the changes made on the topic branch since it diverged from master:
 
-	  A---B---C topic
-	 /         \
+	   A---B---C topic
+	  /         \
     D---E---F---G---H master
 
 
