@@ -1,4 +1,9 @@
-# onepagers
+# Onepager
+
+## Git branching strategy
+Main
+Long lived branches (development, staging) They persist in the code. 
+Short lived branches (feature) they are deleted after you are done with them
 
 ## git add filepath/filename
 To add a file to a commit
