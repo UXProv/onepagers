@@ -44,5 +44,7 @@ Then "git merge topic" will replay the changes made on the topic branch since it
 
 ## git merge --abort
 
+## git rebase
+
 ## git branch branch-name
 Used to create new branches
