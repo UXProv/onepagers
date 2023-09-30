@@ -22,6 +22,7 @@ will commit staged changes. After giving title & description use :wq to exit the
 
 ## git push repo-name branch-name
 Pull requests are used to contributing to other repositories or asking for comments.
+ex. git push origin test
 For example you might have a fork (a copy of the code where you make changes) and you want to suggest thos changes to be included via a pull request.
 Pull requests are based on branches that you later request to be included
 Git push will push the commits from branch name to repo name, creating a pull request
